@@ -24,7 +24,8 @@ Table of Contents
 ## [↑](#table-of-contents) C2
 - [Mythic - A cross-platform, post-exploit, red teaming framework designed to provide a collaborative and user friendly interface for operators.](https://github.com/its-a-feature/Mythic)
 - [CrossC2 framework - Generator CobaltStrike's cross-platform beacon](https://github.com/gloxec/CrossC2)
-- [pupy](https://github.com/n1nj4sec/pupy)
+- [pupy - Pupy is a cross-platform, multi function RAT and post-exploitation tool mainly written in python.](https://github.com/n1nj4sec/pupy)
+- [gdoor - Gdoor is a red team emulation tool deveoped by CyCraft Technology. We use it to construct a macOS cyber range for red team and blue team.](https://github.com/frozenkp/gdoor)
 
 ## [↑](#table-of-contents) Tooling
 - [Orchard - Used for Red Teaming MacOS. JavaScript for Automation (JXA) tool to do Active Directory enumeration.](https://github.com/its-a-feature/Orchard)
