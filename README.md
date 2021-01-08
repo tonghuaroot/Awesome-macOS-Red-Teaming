@@ -51,6 +51,7 @@ Table of Contents
 - [MacOS Native API calls in Electron](https://medium.com/@antman1P_30185/macos-native-api-calls-in-electron-d297d9a960af)
 - [Persistent JXA](https://posts.specterops.io/persistent-jxa-66e1c3cd1cf5)
 - [Are You Docking Kidding Me?](https://posts.specterops.io/are-you-docking-kidding-me-9aa79c24bdc1)
+- [Leveraging hijacked Slack sessions on macOS](https://www.sprocketsecurity.com/blog/how-to-hijack-slack-sessions-on-macos)
 
 ## [↑](#table-of-contents) Free Video
 - [Mythic Feature Examples](https://www.youtube.com/watch?v=cs1yegvVP1k&list=PLHVFedjbv6sNLB1QqnGJxRBMukPRGYa-H)
