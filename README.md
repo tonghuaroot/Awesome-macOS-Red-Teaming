@@ -36,6 +36,7 @@ Table of Contents
 
 
 ## [↑](#table-of-contents) Blog
+- [macOS Post-Exploitation Shenanigans with VSCode Extensions](https://www.mdsec.co.uk/2021/01/macos-post-exploitation-shenanigans-with-vscode-extensions/)
 - [Abusing Slack for Offensive Operations](https://posts.specterops.io/abusing-slack-for-offensive-operations-2343237b9282)
 - [Hands in the Cookie Jar: Dumping Cookies with Chromium’s Remote Debugger Port](https://posts.specterops.io/hands-in-the-cookie-jar-dumping-cookies-with-chromiums-remote-debugger-port-34c4f468844e)
 - [Bring Your Own VM - Mac Edition](https://blog.xpnsec.com/bring-your-own-vm-mac-edition/)
