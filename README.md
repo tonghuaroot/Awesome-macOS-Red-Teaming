@@ -70,6 +70,7 @@ Table of Contents
 - [@XPN](https://twitter.com/_xpn_)
 - [@slyd0g](https://twitter.com/slyd0g)
 - [@_D00mfist](https://twitter.com/_D00mfist)
+- [@mattreduce](https://github.com/mattreduce)
 - [@tonghuaroot :-)](https://github.com/tonghuaroot)
 
 ## [↑](#table-of-contents) Other Awesome Red Teaming Resources
