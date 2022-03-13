@@ -31,8 +31,8 @@ Table of Contents
 - [Orchard - Used for Red Teaming MacOS. JavaScript for Automation (JXA) tool to do Active Directory enumeration.](https://github.com/its-a-feature/Orchard)
 - [Common Domain Enumeration commands in Windows, Mac, and LDAP](https://gist.github.com/its-a-feature/1a34f597fb30985a2742bb16116e74e0)
 - [SwiftSpy - macOS keylogger, clipboard monitor, and screenshotter written in Swift](https://github.com/slyd0g/SwiftSpy)
-- [PersistentJXA - Collection of macOS persistence methods and miscellaneous tools in JXA
-](https://github.com/D00MFist/PersistentJXA)
+- [PersistentJXA - Collection of macOS persistence methods and miscellaneous tools in JXA](https://github.com/D00MFist/PersistentJXA)
+- [VOODOO - Man in the browser attack framework for macOS](https://github.com/breakpointHQ/VOODOO)
 
 
 ## [↑](#table-of-contents) Blog
