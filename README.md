@@ -64,6 +64,7 @@ Table of Contents
 ## [↑](#table-of-contents) Training
 - [Specter Ops - Adversary Tactics: Mac Tradecraft](https://specterops.io/how-we-help/training-offerings/adversary-tactics-mac-tradecraft)
 - [MDSec - Adversary Simulation and Red Team Tactics](https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics)
+- [EXP-312 Offensive Security macOS Researcher](https://www.offensive-security.com/exp312-osmr/)
 
 ## [↑](#table-of-contents) People
 - [@its_a_feature_](https://twitter.com/its_a_feature_)
@@ -72,6 +73,7 @@ Table of Contents
 - [@_D00mfist](https://twitter.com/_D00mfist)
 - [@mattreduce](https://github.com/mattreduce)
 - [@tonghuaroot :-)](https://github.com/tonghuaroot)
+- [@theevilbit](https://twitter.com/theevilbit)
 
 ## [↑](#table-of-contents) Other Awesome Red Teaming Resources
 - [macOS Matrix](https://attack.mitre.org/matrices/enterprise/macos/)
